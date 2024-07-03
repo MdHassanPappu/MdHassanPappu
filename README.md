@@ -1,5 +1,4 @@
-# Hi there, I'm Md Jahid Hassan 
-### These are my field of Interest.
+# Hi there, I'm Md Jahid Hassan and my fields of interest are:
 
 ![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=white)
