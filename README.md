@@ -11,6 +11,20 @@
 I am deeply passionate about Mathematics, Programming, and Artificial Intelligence. Currently pursuing my Master's degree in Mathematical Modelling and Computational Sciences at the University of Luxembourg, where I am preparing myself to explore how advanced mathematical techniques can revolutionize AI and machine learning. With strong knowledge in mathematical theory and programming skills, I am dedicated to solving complex real-world problems using cutting-edge technologies.
 
 
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C | Matlab | SQL |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img 
+
+
+
+
+
+
 ## 🔧 Skills
 
 - **Programming Languages:**
