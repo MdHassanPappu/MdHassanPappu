@@ -51,13 +51,6 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
   ![SQL](https://img.shields.io/badge/SQL-Database-green)
 -->
 
-
-
-
-
-
-</div>
-
 <div>
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhassanpappu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
