@@ -11,23 +11,23 @@ I am a passionate Machine Learning and Computer Vision enthusiast currently purs
 ## 🛠️ Skills
 
 **Programming Languages:**
-- Python
-- C
-- MATLAB
-- SQL
+- ![Python](https://img.shields.io/badge/Python-3.x-blue)
+- ![C](https://img.shields.io/badge/C-Programming-red)
+- ![MATLAB](https://img.shields.io/badge/MATLAB-Programming-yellow)
+- ![SQL](https://img.shields.io/badge/SQL-Database-green)
 
 **Machine Learning:**
-- Supervised Learning
-- Deep Learning
-- Computer Vision
+- ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-Expert-blue)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-purple)
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Enthusiast-brightgreen)
 
 **Libraries and Tools:**
-- NumPy
-- Pandas
-- Seaborn
-- Scikit-learn
-- TensorFlow
-- Git
+- ![NumPy](https://img.shields.io/badge/NumPy-Library-orange)
+- ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-9cf)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-blue)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+- ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 
 ---
 
