@@ -12,9 +12,6 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 
 
 
-## Languages and Tools 
-<div>
-
 ### Languages:
 | Python3 | C | Matlab | SQL |
 |----------|----------|----------|-----|-----|
