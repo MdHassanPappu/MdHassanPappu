@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-grey)
 ![MATLAB](https://img.shields.io/badge/Computational%20Mathematics-grey)
 ![Git](https://img.shields.io/badge/Mathematical%20Modelling-grey)
+- ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=black)
+
 
 ## 🌟 About Me
 
