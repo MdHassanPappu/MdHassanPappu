@@ -1,8 +1,8 @@
 # Hi there, I'm Md Jahid Hassan 
 
 ![Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey)
-![Python](https://img.shields.io/badge/Python-grey)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue)
+![Python](https://img.shields.io/badge/Python-green)
 ![MATLAB](https://img.shields.io/badge/Computational%20Mathematics-yellow)
 ![Git](https://img.shields.io/badge/Mathematical%20Modelling-orange)
 
