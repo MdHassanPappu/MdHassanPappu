@@ -11,6 +11,9 @@
 
 I am deeply passionate about Mathematics, Programming, and Artificial Intelligence. Currently pursuing my Master's degree in Mathematical Modelling and Computational Sciences at the University of Luxembourg,in Where i'm preparing myself to explore how advanced mathematical techniques can revolutionize AI and machine learning. With strong knowledge in mathematical theory and programming skills,  I am dedicated to solving complex real-world problems using cutting-edge technologies.
 
+## <span style="font-size:larger;">🌟 About Me</span>
+
+I am deeply passionate about Mathematics, Programming, and Artificial Intelligence. Currently pursuing my Master's degree in Mathematical Modelling and Computational Sciences at the University of Luxembourg, where I am preparing myself to explore how advanced mathematical techniques can revolutionize AI and machine learning. With strong knowledge in mathematical theory and programming skills, I am dedicated to solving complex real-world problems using cutting-edge technologies.
 
 ## 🔧 Skills
 
