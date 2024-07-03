@@ -6,13 +6,6 @@
 ![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=code&logoColor=blue)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=matrix&logoColor=blue)
 
-![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=yellow)
-![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=computer&logoColor=blue)
-![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=symbols&logoColor=blue)
-
-
 
 ## 🌟 About Me
 
