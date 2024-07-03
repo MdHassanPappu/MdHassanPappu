@@ -35,9 +35,9 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 
 ### Other
 
-| HTML | CSS | Git | 
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="Css" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/>|
+| HTML | CSS | Git | Latex |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="Css" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git"  alt="Git" width="55" height="55"/>|
 
 
 
