@@ -27,6 +27,14 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 
 
 
+### Frameworks For Machine Learning :
+
+| Sklearn | Keras | Tensorflow | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+
+
 ## 🔧 Skills
 
 - **Programming Languages:**
