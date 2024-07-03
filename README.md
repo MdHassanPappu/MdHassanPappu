@@ -1,15 +1,11 @@
 # Hi there, I'm Md Jahid Hassan 
 
-![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=black)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=black)
-![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=mathworks&logoColor=black)
-![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=mathworks&logoColor=black)
-
 ![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=yellow)
 ![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=python&logoColor=blue)
+![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=symbols&logoColor=blue)
+
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=python&logoColor=blue)
 
 
