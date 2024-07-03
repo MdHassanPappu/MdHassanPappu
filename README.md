@@ -1,6 +1,7 @@
 # Hi there, I'm Md Jahid Hassan 
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-blue)
+- ![Python](https://img.shields.io/badge/Python-3.x-grey)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Enthusiast-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-ff69b4)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Programming-yellow)
