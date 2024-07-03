@@ -51,9 +51,9 @@ I am a passionate Machine Learning and Computer Vision enthusiast currently purs
 
 ## 🎓 Education
 
-- **Master's in Mathematical Modelling and Computational Sciences**
+- ***Master's in Mathematical Modelling and Computational Sciences***
   - University of Luxembourg (2024 - ongoing )
-- *Bsc in Mathematics*
+- **Bsc in Mathematics**
   - Jashore University of Science and technology (2019 -2023)
   
 
