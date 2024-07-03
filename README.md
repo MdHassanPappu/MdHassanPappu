@@ -8,10 +8,10 @@
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=black)
 
 **Programming Languages:**
-- ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=black)
-- ![C](https://img.shields.io/badge/C-Programming-grey?style=for-the-badge&logo=c&logoColor=black)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-Programming-grey?style=for-the-badge&logo=mathworks&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-Database-grey?style=for-the-badge&logo=postgresql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-Programming-grey?style=for-the-badge&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-Programming-grey?style=for-the-badge&logo=mathworks&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Database-grey?style=for-the-badge&logo=postgresql&logoColor=black)
 
 
 ## 🌟 About Me
