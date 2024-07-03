@@ -1,77 +1,45 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there! 👋 I'm [Your Name]
 
----
+I'm a passionate machine learning and computer vision enthusiast currently studying Mathematical Modelling and Computational Sciences at the University of Luxembourg. I love exploring data, building models, and creating visualizations.
 
-## 🌟 About Me
+## About Me
 
-I am a passionate Machine Learning and Computer Vision enthusiast currently pursuing my Master's degree in Mathematical Modelling and Computational Sciences at the University of Luxembourg. With a strong foundation in mathematics and programming, I am dedicated to solving complex real-world problems using cutting-edge technologies.
+- 🌱 Studying **Mathematical Modelling and Computational Sciences**
+- 💡 Passionate about **Machine Learning** and **Computer Vision**
+- 🚀 Constantly learning and experimenting with new technologies
 
----
+## Skills
 
-## 🛠️ Skills
+- **Languages**: Python, C, MATLAB, SQL
+- **Libraries and Frameworks**: NumPy, pandas, seaborn, scikit-learn, TensorFlow
+- **Supervised Machine Learning**: Regression, classification, etc.
 
-**Programming Languages:**
-- ![Python](https://img.shields.io/badge/Python-3.x-blue)
-- ![C](https://img.shields.io/badge/C-Programming-red)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-Programming-yellow)
-- ![SQL](https://img.shields.io/badge/SQL-Database-green)
+## Projects
 
-**Machine Learning:**
-- ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-Expert-blue)
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-purple)
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Enthusiast-brightgreen)
+### Project 1: Image Classification using Convolutional Neural Networks (CNN)
 
-**Libraries and Tools:**
-- ![NumPy](https://img.shields.io/badge/NumPy-Library-orange)
-- ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-9cf)
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-blue)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
-- ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+- Description: Built a CNN model to classify images from the CIFAR-10 dataset.
+- GitHub Repo: cnn-image-classification
 
----
+### Project 2: Data Visualization Dashboard
 
-## 📚 Projects
+- Description: Created an interactive dashboard using Plotly and Dash to visualize COVID-19 data.
+- GitHub Repo: covid-dashboard
 
-### [Image Classification with CNNs](https://github.com/yourusername/Image-Classification-CNN)
-Built and trained a Convolutional Neural Network to classify images from the CIFAR-10 dataset.
-- **Technologies:** Python, TensorFlow, Keras, Matplotlib
+## Education
 
-### [Object Detection with YOLO](https://github.com/yourusername/Object-Detection-YOLO)
-Implemented the YOLO (You Only Look Once) algorithm for real-time object detection.
-- **Technologies:** Python, OpenCV, TensorFlow
+- **University of Luxembourg**
+  - M.Sc. in Mathematical Modelling and Computational Sciences (Expected Graduation: 2024)
 
-### [Face Recognition System](https://github.com/yourusername/Face-Recognition-System)
-Developed a face recognition system using deep learning techniques.
-- **Technologies:** Python, OpenCV, Dlib, Scikit-learn
+## Contact
 
-### [Medical Image Segmentation](https://github.com/yourusername/Medical-Image-Segmentation)
-Implemented a U-Net model for segmenting medical images to assist in diagnosis.
-- **Technologies:** Python, Keras, TensorFlow, NumPy
+- LinkedIn: Your LinkedIn Profile
+- Email: your.email@example.com
 
----
+## Badges
 
-## 🎓 Education
+!Python
+!Machine Learning
+!Computer Vision
 
-**Master's Degree in Mathematical Modelling and Computational Sciences**
-- University of Luxembourg
-
----
-
-## 📫 Contact
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 🌐 Let's Connect!
-
-I am always excited to connect with fellow enthusiasts, researchers, and potential collaborators. Feel free to reach out to me for discussions, collaborations, or any exciting opportunities in the field of Machine Learning and Computer Vision. Let's make a difference together!
-
----
-
-**Thanks for visiting!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+Feel free to explore my repositories and connect with me! 😊👍
