@@ -51,14 +51,17 @@ I am a passionate Machine Learning and Computer Vision enthusiast currently purs
 
 ## 🎓 Education
 
-- **Master's Degree in Mathematical Modelling and Computational Sciences**
-  - University of Luxembourg
+- **Master's in Mathematical Modelling and Computational Sciences**
+  - University of Luxembourg (2024 - ongoing )
+- **Bsc in Mathematics**
+  - Jashore University of Science and technology (2019 -2023)
+  
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [jahidhassan03@hotmail.com](mailto:jahidhassan03@hotmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/hassan-md-jahid/](https://www.linkedin.com/in/hassan-md-jahid/)
+- **Website:** [https://mdhassanpappu.github.io/](https://mdhassanpappu.github.io/)
 
 ## 🌐 Let's Connect!
 
