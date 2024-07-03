@@ -6,6 +6,13 @@
 ![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=code&logoColor=blue)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=matrix&logoColor=blue)
 
+# Hi there, I'm Md Jahid Hassan and my fields of interest are:
+
+![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=orange&label=Supervised%20Machine%20Learning)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=white&label=Computer%20Vision)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=yellow&label=Python)
+![Computational Sciences](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=code&logoColor=blue&label=Computational%20Sciences)
+![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=matrix&logoColor=blue&label=Mathematical%20Modelling)
 
 ## 🌟 About Me
 
