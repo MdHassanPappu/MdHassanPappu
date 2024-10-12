@@ -59,7 +59,26 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 </p>
 </div>
 
-## 📚 Projects 
+## 🎓 Education
+
+- ***Master's in Mathematical Modelling and Computational Sciences***
+  - University of Luxembourg (2024 - ongoing )
+- **Bsc in Mathematics**
+  - Jashore University of Science and technology (2019 -2023)
+  
+
+## 📫 Contact
+
+- **Email:** [jahidhassan03@hotmail.com](mailto:jahidhassan03@hotmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/hassan-md-jahid/](https://www.linkedin.com/in/hassan-md-jahid/)
+- **Website:** [https://mdhassanpappu.github.io/](https://mdhassanpappu.github.io/)
+
+## 🌐 Let's Connect!
+
+I am always excited to connect with  enthusiasts, researchers, and potential collaborators. Feel free to reach out to me for discussions, collaborations, or any exciting opportunities in the field of Machine Learning and Computer Vision.
+
+
+<!-- ## 📚 Projects 
 
 ### [Project 1: Image Classification with CNNs](https://github.com/yourusername/Image-Classification-CNN)
 - **Description:** Built and trained a Convolutional Neural Network to classify images from the CIFAR-10 dataset.
@@ -78,21 +97,3 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 - **Description:** Implemented a U-Net model for segmenting medical images to assist in diagnosis.
 - **Technologies:** ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange) ![NumPy](https://img.shields.io/badge/NumPy-Library-orange)
 ..>
-
-## 🎓 Education
-
-- ***Master's in Mathematical Modelling and Computational Sciences***
-  - University of Luxembourg (2024 - ongoing )
-- **Bsc in Mathematics**
-  - Jashore University of Science and technology (2019 -2023)
-  
-
-## 📫 Contact
-
-- **Email:** [jahidhassan03@hotmail.com](mailto:jahidhassan03@hotmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/hassan-md-jahid/](https://www.linkedin.com/in/hassan-md-jahid/)
-- **Website:** [https://mdhassanpappu.github.io/](https://mdhassanpappu.github.io/)
-
-## 🌐 Let's Connect!
-
-I am always excited to connect with  enthusiasts, researchers, and potential collaborators. Feel free to reach out to me for discussions, collaborations, or any exciting opportunities in the field of Machine Learning and Computer Vision.
