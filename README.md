@@ -15,9 +15,9 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 <div>
 
 ### Languages:
-| Python3 | C | Matlab | MYSQL |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+| Python3 | C | Matlab |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="55" height="55"/> | 
 
 
 ### My tools for Data Manipulation & Visualisation:
@@ -38,7 +38,7 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 
 | HTML | CSS | Git | Latex |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="Css" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git"  alt="Git" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Git"  alt="Git" width="55" height="55"/>|
 
 
 
