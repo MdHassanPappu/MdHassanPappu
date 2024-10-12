@@ -58,6 +58,7 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 </p>
 </div>
 
+<!-- 
 ## 📚 Projects
 
 ### [Project 1: Image Classification with CNNs](https://github.com/yourusername/Image-Classification-CNN)
@@ -75,6 +76,8 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 ### [Project 4: Medical Image Segmentation](https://github.com/yourusername/Medical-Image-Segmentation)
 - **Description:** Implemented a U-Net model for segmenting medical images to assist in diagnosis.
 - **Technologies:** ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange) ![NumPy](https://img.shields.io/badge/NumPy-Library-orange)
+.. >
+
 
 ## 🎓 Education
 
