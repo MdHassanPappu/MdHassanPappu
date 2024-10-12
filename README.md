@@ -95,5 +95,3 @@ I am deeply passionate about Mathematics, Programming, and Artificial Intelligen
 ## 🌐 Let's Connect!
 
 I am always excited to connect with  enthusiasts, researchers, and potential collaborators. Feel free to reach out to me for discussions, collaborations, or any exciting opportunities in the field of Machine Learning and Computer Vision.
-
----
