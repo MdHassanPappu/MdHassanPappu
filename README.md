@@ -2,7 +2,7 @@
 
 ![Supervised Machine Learning](https://img.shields.io/badge/Supervised%20Machine%20Learning-grey?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=for-the-badge&logo=opencv&logoColor=white)
-![Optimization](https://img.shields.io/badge/Computational%20Sciences-grey?style=for-the-badge&logo=python&logoColor=yellow)
+![Optimization](https://img.shields.io/badge/Optimization-grey?style=for-the-badge&logo=python&logoColor=yellow)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-grey?style=for-the-badge&logo=matrix&logoColor=blue)
 
 
